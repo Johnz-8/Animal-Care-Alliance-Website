@@ -1,2 +1,2 @@
 # Animal-Care-Alliance-Website
-Source code of Animal Care Alliance website
+Source code (scaffold) of Animal Care Alliance website
